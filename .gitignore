@@ -1,0 +1,35 @@
+# Ignore compiled files and cache
+__pycache__/
+*.py[cod]
+
+# Ignore specific Python scripts
+Group_project/algoimplementation.py
+Group_project/algotest.py
+Group_project/archive/
+Group_project/calculatenextmove.py
+Group_project/close.py
+Group_project/combined.py
+Group_project/fromjobe.py
+Group_project/generate_path.py
+Group_project/hamiltoinian.py
+Group_project/hardcodedlogic.py
+Group_project/integrated.py
+Group_project/integrated2.py
+Group_project/paralell.py
+Group_project/perplex.py
+Group_project/photo.py
+Group_project/photo2.py
+Group_project/pleasedontbreak.py
+Group_project/powerpoint.py
+Group_project/run_hamiltonian.py
+Group_project/snakeNoAI.py
+Group_project/snakegame.py
+Group_project/snakeworking.py
+Group_project/test.py
+Group_project/test2.py
+Group_project/test3.py
+Group_project/working_circle_logic.py
+
+# Ignore any other files or folders as needed
+Group_project/final\ for\ now.mp4
+Group_project/IMG_0689.mov
